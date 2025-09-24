@@ -4,9 +4,9 @@ The client decrypts the OTP using its private key and displays it in a Kivy-base
 
 📂 Project Structure:
 
-├── Server.py # Multi-client OTP server
-├── Client.py # GUI-based OTP client
-└── README.md # Documentation
+Server.py # Multi-client OTP server
+Client.py # GUI-based OTP client
+README.md # Documentation
 
 
 
