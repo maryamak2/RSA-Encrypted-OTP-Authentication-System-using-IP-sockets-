@@ -3,6 +3,7 @@ The server generates OTPs, encrypts them with the client’s public key, and sen
 The client decrypts the OTP using its private key and displays it in a Kivy-based GUI with a countdown timer.
 
 📂 Project Structure:
+
 ├── Server.py # Multi-client OTP server
 ├── Client.py # GUI-based OTP client
 └── README.md # Documentation
